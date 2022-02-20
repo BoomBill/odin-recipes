@@ -1,3 +1,2 @@
 # odin-recipes
-Recipes
-Simple html page
+My first html page!
